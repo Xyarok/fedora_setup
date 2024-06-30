@@ -1,1 +1,1 @@
-# one-step
+# My current Fedora Linux configuration
