@@ -1,2 +1,3 @@
 # My current Fedora Linux configuration
-The .sh file is to install the packages I use.
+1. Installs all the packages I use.
+2. Clones the one-step repository to set up all of my visual and functional settings.
