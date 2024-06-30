@@ -7,6 +7,7 @@ sudo dnf install waybar
 sudo dnf install wofi
 sudo dnf install zoxide
 sudo dnf install zsh
+sudo dnf install git
 
 # Install non core dnf packages
 sudo dnf install gimp
@@ -18,3 +19,6 @@ sudo flatpak upgrade
 sudo flatpak install floorp
 sudo flatpak install onlyoffice
 sudo flatpak install steam
+
+# Install Oh My Zsh
+sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
