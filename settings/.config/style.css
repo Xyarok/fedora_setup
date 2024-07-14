@@ -1,0 +1,32 @@
+* {
+border-radius: 3px;
+}
+
+window {
+margin: 5px;
+background-color: #1d1d1d;
+border: 2px solid white;
+}
+
+#input {
+margin: 5px;
+border: 2px solid white;
+background-color: #1d1d1d;
+color: white;
+}
+
+#entry:selected {
+background: linear-gradient(90deg, #740407, #a3232b);
+padding: 10px;
+}
+
+#inner-box {
+margin: 5px;
+background-color: #1d1d1d;
+color: white;
+}
+
+#outer-box {
+margin: 5px;
+background-color: #1d1d1d;
+}
