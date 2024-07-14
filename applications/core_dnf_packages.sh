@@ -7,6 +7,8 @@ DNF_CORE_PACKAGE_INSTALL_LIST=(
         zsh
 )
 
+sudo dnf update
+
 for dnf_core_package_name in ${DNF_CORE_PACKAGE_INSTALL_LIST[@]}; do
         if ! sudo dnf list --installed | grep -q "^\<$dnf_core_package_name\>"; then
                 echo "installed $dnf_core_package_name..."
