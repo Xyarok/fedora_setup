@@ -2,6 +2,7 @@ DNF_USER_PACKAGE_INSTALL_LIST=(
         gimp
         obs-studio
         torbrowser-launcher
+        fontawesome-fonts
 )
 
 for dnf_user_package_name in ${DNF_USER_PACKAGE_INSTALL_LIST[@]}; do
