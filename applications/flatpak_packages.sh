@@ -4,7 +4,6 @@ FLATPAK_PACKAGE_INSTALL_LIST=(
         obsidian
         onlyoffice
         protonvpn
-        steam
         vscodium
 )
 
