@@ -1,6 +1,7 @@
 DNF_USER_PACKAGE_INSTALL_LIST=(
         gimp
         obs-studio
+        steam
         torbrowser-launcher
         fontawesome-fonts
 )
